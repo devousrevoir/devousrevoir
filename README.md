@@ -3,11 +3,11 @@
 
 # Profile
 
-💻 
+💻 Bio Engineering
 
-🎓 
+🎓 DongEui university
 
-📌 E-mail : ismybetterlife@gmail.com
+📌 E-mail : gtuhbinn@gmail.com
 
 📰 Portfolio :
 
