@@ -15,9 +15,18 @@
 
 ### Project
 - Basic Python Project
-    - 1st Project : **[Repositories📘](https://github.com/minimini9951/Python-1st-Project.git)**
+    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/python)**
 
-### Toy Project
+- R Project
+    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/python)**
+    - 2nd Project : **[Repositories📘](https://github.com/devousrevoir/R/tree/main/자료/공모전)**
+
+- Machine Learning Project
+    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/python)**
+    - 2nd Project : **[Repositories📘](https://github.com/devousrevoir/python)**
+
+- Deep Learning Project
+    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/python)**
 
 ### Social activity/education history
 - domain knowledge
