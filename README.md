@@ -9,7 +9,7 @@
 
 📌 E-mail : gtuhbinn@gmail.com
 
-📰 Portfolio :
+📰 Portfolio : not here!
 
 ### career
 
