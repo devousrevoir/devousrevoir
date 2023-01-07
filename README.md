@@ -15,18 +15,17 @@
 
 ### Project
 - Basic Python Project
-    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/python)**
+    - Project : **[Repositories📕](https://github.com/devousrevoir/python)**
 
 - R Project
-    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/R/tree/main/자료/프로젝트)**
-    - 2nd Project : **[Repositories📘](https://github.com/devousrevoir/R/tree/main/자료/공모전)**
+    - 1st Project : **[Repositories📙](https://github.com/devousrevoir/R/tree/main/자료/프로젝트)**
+    - 2nd Project : **[Repositories📒](https://github.com/devousrevoir/R/tree/main/자료/공모전)**
 
 - Machine Learning Project
-    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/ML)**
-    - 2nd Project : **[Repositories📘](https://github.com/devousrevoir/ML)**
+    - Project : **[Repositories📗](https://github.com/devousrevoir/ML)**
 
 - Deep Learning Project
-    - 1st Project : **[Repositories📘](https://github.com/devousrevoir/DL)**
+    - Project : **[Repositories📘](https://github.com/devousrevoir/DL)**
 
 ### Social activity/education history
 - domain knowledge
