@@ -3,7 +3,7 @@
 
 # Profile
 
-💻 Engineering
+💻 Bio Engineering
 
 🎓 DongEui university
 
