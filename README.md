@@ -1,4 +1,4 @@
-![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/119833844/211968721-4b84b2c0-1169-4423-9e45-9a7bdfb442e9.png)
+![hey-bin](https://user-images.githubusercontent.com/119833844/211968910-438e5d7f-1323-4aef-82b0-e7c012d84067.png)
 <div align=center>
 💻 Bio Engineering 🎓 DongEui university<br>
 <br>
