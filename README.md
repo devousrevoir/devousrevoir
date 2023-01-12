@@ -1,4 +1,5 @@
 <div align=center>
+
 ![hey-bin](https://user-images.githubusercontent.com/119833844/211968910-438e5d7f-1323-4aef-82b0-e7c012d84067.png)
 <div align=center>
 💻 Bio Engineering 🎓 DongEui university<br>
@@ -36,7 +37,7 @@
   <p>💻SNS</p>
 </div>
 <div align=center>
-  <a href=mailto:gtuhbinn@gmail.com>
+  <a href=mailto:https://github.com/devousrevoir>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <a href=mailto:gtuhbinn@gmail.com>
     <img src="http://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow" />
@@ -47,13 +48,13 @@
 <br>
 <div align=center>
   <p>💡Project</p>
-  <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
+  <a href=[https://github.com/devousrevoir/python>
     <img src="http://img.shields.io/badge/-python_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
-  <a href=https://github.com/xhdixhfl/Retail-Data.git>
+  <a href=https://github.com/devousrevoir/R>
     <img src="http://img.shields.io/badge/-R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
     <br>
-  <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
+  <a href=https://github.com/devousrevoir/ML>
     <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
-  <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
+  <a href=https://github.com/devousrevoir/DL>
     <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
 </div>
