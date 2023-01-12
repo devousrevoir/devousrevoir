@@ -1,6 +1,6 @@
+![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/119833844/211968721-4b84b2c0-1169-4423-9e45-9a7bdfb442e9.png)
 <div align=center>
-💻 Bio Engineering<br>
-🎓 DongEui university<br>
+💻 Bio Engineering 🎓 DongEui university<br>
 <br>
 <div align=center>
 <p>📚Language</p>
