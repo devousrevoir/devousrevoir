@@ -1,7 +1,6 @@
 <div align=center>
 
  
- 
 ![hey-bin](https://user-images.githubusercontent.com/119833844/211968910-438e5d7f-1323-4aef-82b0-e7c012d84067.png)
 <div align=center>
 🎓Bio Engineering
